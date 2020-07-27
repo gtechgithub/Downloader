@@ -1,0 +1,21 @@
+gopal@Gopals-MBP Documents % keytool -genkeypair -alias downloader -keyalg RSA -keysize 4096 -storetype PKCS12 -keystore keystore.p12 -validity 3650 -storepass password
+What is your first and last name?
+  [Unknown]:  
+What is the name of your organizational unit?
+  [Unknown]:  
+What is the name of your organization?
+  [Unknown]:  
+What is the name of your City or Locality?
+  [Unknown]:  
+What is the name of your State or Province?
+  [Unknown]:  
+What is the two-letter country code for this unit?
+  [Unknown]:  
+Is CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown correct?
+  [no]:  yes
+
+Generating 4,096 bit RSA key pair and self-signed certificate (SHA384withRSA) with a validity of 3,650 days
+	for: CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
+---------------------------------------------------------------------------------------
+
+
